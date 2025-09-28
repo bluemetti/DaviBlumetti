@@ -9,6 +9,8 @@
 
 ## 📋 Descrição
 
+Este é meu portfólio pessoal, desenvolvido para apresentar meus projetos e habilidades como desenvolvedor Full Stack. O site apresenta uma interface moderna e responsiva, construída com as mais recentes tecnologias web.
+
 ## ✨ Características
 
 - 🎨 **Design Moderno**: Interface elegante com gradientes e efeitos visuais
@@ -24,8 +26,6 @@
 - **TailwindCSS** - Framework CSS utilitário
 - **React Router V7** - Roteamento para aplicações React
 - **Vite** - Ferramenta de build e desenvolvimento
-- **PostCSS** - Processador de CSS
-- **Autoprefixer** - Plugin PostCSS para prefixos CSS
 
 ## 🚀 Como Executar
 
